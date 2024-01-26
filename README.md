@@ -1,4 +1,4 @@
-# Market Risk Management Project
+# Quantitative Finance Project: Risk Analysis & Modeling
 
 This project serves as the culmination of our Market Risk Management course, allowing us to delve deeper into the practical implementation of concepts introduced during the course and further explored in our guided studies.
 
