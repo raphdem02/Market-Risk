@@ -1,12 +1,13 @@
-# Projet de Gestion des Risques du Marché
+# Market Risk Management Project
 
-Ce projet conclut le cours sur la gestion des risques du marché, nous permettant d'approfondir la mise en œuvre des concepts abordés en cours et explorés davantage dans les études dirigées.
+This project serves as the culmination of our Market Risk Management course, allowing us to delve deeper into the practical implementation of concepts introduced during the course and further explored in our guided studies.
 
-Le code utilisé pour chaque question peut être trouvé dans la section "Annexe" à la fin du rapport.
+You can find the code used for each question in the "Appendix" section at the end of this report.
 
-La bibliothèque pandas de Python joue un rôle essentiel dans la préparation des données, ce qui permet une manipulation et un nettoyage efficaces des données.
+Data preparation is a crucial step in this project, and the Python pandas library plays a pivotal role in ensuring efficient data manipulation and cleaning.
 
-Une fois les données préparées, l'étape suivante consiste à effectuer nos calculs pour obtenir des mesures de risque. Ici, nous utilisons numpy pour les calculs numériques et scipy.stats pour les fonctions statistiques.
+Once the data is appropriately prepared, the subsequent phase involves performing calculations to derive various risk measures. For numerical computations, we rely on numpy, and for statistical functions, we utilize scipy.stats.
 
-Pour la visualisation, matplotlib.pyplot est largement utilisé pour créer des graphiques et des graphiques informatifs.
+To create informative charts and graphs for visualization, we heavily rely on matplotlib.pyplot.
+
 
